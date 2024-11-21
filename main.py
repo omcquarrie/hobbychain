@@ -1,15 +1,12 @@
 class Block:
 
     def __init__():
-
-    #first block class
-
+        #first block class
         pass
 
     def calculate_hash():
-
-    #calculates the cryptographic hash of every block
-
+        #calculates the cryptographic hash of every block
+        pass
 
 class BlockChain:
 
